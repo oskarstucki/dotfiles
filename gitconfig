@@ -167,3 +167,6 @@
 [url "git://gist.github.com/"]
 
 	insteadOf = "gist:"
+[user]
+	name = Oskar Stucki
+	email = oskar.stucki@gmail.com
