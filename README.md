@@ -14,7 +14,7 @@ Installing guide from [Sirile's blog](http://sirile.github.io/2015/01/26/setting
 ## Clone the dotfiles
 
 ```
-git clone https://github.com/SirIle/dotfiles.git ~/.dotfiles
+git clone https://github.com/oskarstucki/dotfiles.git ~/.dotfiles
 ```
 
 ## Install the default packages with a bundle
